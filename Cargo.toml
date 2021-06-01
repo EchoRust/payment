@@ -1,0 +1,13 @@
+[package]
+name = "payment"
+version = "0.0.0"
+authors = ["Echo <Echo_AI@foxmail.com>"]
+edition = "2018"
+description = "Rust's third party payment SDK"
+license = "MIT"
+repository = "https://github.com/EchoRust/payment"
+keywords = ["payment", "alipay", "weixin-pay"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
